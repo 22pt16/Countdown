@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Countdown</title>
+    <link rel="icon" href="timer-favicon.jpg">
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1 id="topic">COUNT DOWN</h1>
+    </div>
+
+    <div id="current-datetime"></div>
+    
+    <div id="message-container">
+        <div id="message">Happy New Year </div>
+        <br><br>
+        <div id="timer">
+            <!-- COUNT DOWN by js -->
+            <div id="days"></div> :
+            <div id="hours"></div>:
+            <div id="minutes"></div>:
+            <div id="seconds"></div>
+        </div>
+        <br><br>
+        <img id="timeimg" src="timer-favicon.jpg" alt="LOGO">
+        <p id="timeLeft">Remains until...</p>
+    </div>
+    
+    
+    <div class="input-section">
+        <div class="inputmsg"> Customize to RESET the Timer </div>
+        <input id="title" type="text" placeholder="Enter message to print" required>
+        <input id="date" type="number" min="1" max="31" placeholder="Date" required>
+        <input id="month" type="number" min="1" max="12" placeholder="Month" required>
+        <input id="year" type="number" min="2024" placeholder="Year" required>
+        <button id="setButton">Set</button>
+    </div>
+</div>
+
+<script src="script.js">
+    
+</script>
+
+</body>
+</html>
