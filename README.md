@@ -84,8 +84,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Thank you for checking out the **Countdown Timer** project! If you have any questions or feedback, feel free to open an issue or contact the project maintainers.
-
+Thank you for checking out the **Countdown Timer** project! If you have any questions or feedback, feel free to open an issue .
 Happy coding! 🚀
 
 ---
