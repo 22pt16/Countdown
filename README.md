@@ -46,6 +46,9 @@ To run this project locally, you'll need:
     - Enter your message in the "Enter message to print" field.
     - Set the target date by filling in the "Date", "Month", and "Year" fields.
     - Click the "Set" button to start the new countdown.
+  
+    - or simply PREVIEW in
+      https://22pt16.github.io/Countdown/
 
 ## 🎨 Customization
 You can customize various aspects of this project:
